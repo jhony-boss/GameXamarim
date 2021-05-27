@@ -1,0 +1,15 @@
+C:\Users\Jhony\source\repos\GameXamarim\GameXamarim\GameXamarim\bin\Debug\netstandard2.0\GameXamarim.deps.json
+C:\Users\Jhony\source\repos\GameXamarim\GameXamarim\GameXamarim\bin\Debug\netstandard2.0\GameXamarim.dll
+C:\Users\Jhony\source\repos\GameXamarim\GameXamarim\GameXamarim\bin\Debug\netstandard2.0\ref\GameXamarim.dll
+C:\Users\Jhony\source\repos\GameXamarim\GameXamarim\GameXamarim\bin\Debug\netstandard2.0\GameXamarim.pdb
+C:\Users\Jhony\source\repos\GameXamarim\GameXamarim\GameXamarim\obj\Debug\netstandard2.0\GameXamarim.csprojAssemblyReference.cache
+C:\Users\Jhony\source\repos\GameXamarim\GameXamarim\GameXamarim\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Jhony\source\repos\GameXamarim\GameXamarim\GameXamarim\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Jhony\source\repos\GameXamarim\GameXamarim\GameXamarim\obj\Debug\netstandard2.0\GameXamarim.AssemblyInfoInputs.cache
+C:\Users\Jhony\source\repos\GameXamarim\GameXamarim\GameXamarim\obj\Debug\netstandard2.0\GameXamarim.AssemblyInfo.cs
+C:\Users\Jhony\source\repos\GameXamarim\GameXamarim\GameXamarim\obj\Debug\netstandard2.0\GameXamarim.csproj.CoreCompileInputs.cache
+C:\Users\Jhony\source\repos\GameXamarim\GameXamarim\GameXamarim\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Jhony\source\repos\GameXamarim\GameXamarim\GameXamarim\obj\Debug\netstandard2.0\GameXamarim.dll
+C:\Users\Jhony\source\repos\GameXamarim\GameXamarim\GameXamarim\obj\Debug\netstandard2.0\ref\GameXamarim.dll
+C:\Users\Jhony\source\repos\GameXamarim\GameXamarim\GameXamarim\obj\Debug\netstandard2.0\GameXamarim.pdb
+C:\Users\Jhony\source\repos\GameXamarim\GameXamarim\GameXamarim\obj\Debug\netstandard2.0\PageJogo.xaml.g.cs
